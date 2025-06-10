@@ -16,7 +16,7 @@ title: Harshit
 share-title: Let me introduce you to my geek side!
 
 # Meta description for SEO purposes
-meta-description: Hi, I am Anudit Verma. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US. I have a Master's Degree in Computer Science. I am a former GSoC Student and an MLH Top 50 Hacker of 2021. I love to write on my blog. I enjoy reading books. I love to run. In my past time, I am either listening to a podcast or playing video games.
+meta-description: Hi, I am Harshit. I am a AI Developer, Reseacher, Sportsman and a Traveller. I have a Bachelor's Degree in Electrical Engineering. I love to write on my blog. I enjoy watching Animes. I love to play sports. In my past time, I am either outside playing sports, video games or exploring technology.
 
 
 # Your name to show in the footer
@@ -44,7 +44,7 @@ author: Harshit
 
 
 navbar-links:
-  Recommends: "books"
+  Recommends: "Anime", "Travel placces in India"
   My Work:
     - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
@@ -61,7 +61,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/av.jpg"
+avatar: "/assets/img/Me.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
