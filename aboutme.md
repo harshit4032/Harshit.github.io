@@ -30,7 +30,7 @@ I enjoy watching <a target="_blank" href="https://www.anudit.in/books/">Animes</
 
 <p class="about-text">
 <span class="fa fa-running about-icon"></span>
-I love to explore extracurricular activities including arts and sports. I'm a professional cricketer(Bowling All-rounder) and a basketball player. I also occasionally do sketching and paining. I can also do a backflip and gymnastics. 
+I love exploring a wide range of extracurricular activities, especially in arts and sports. I’m a professional cricketer (bowling all-rounder) and an active basketball player. Beyond sports, I occasionally indulge in sketching and painting to express my creative side. I also enjoy gymnastics—and yes, I can pull off a backflip!
 
 <!-- Include Font Awesome for Instagram icon -->
 <link
@@ -115,7 +115,7 @@ Let’s connect if you want to collab on building something super awesome togeth
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
 <br><br>
-<center><img src="/assets/img/harshit-meaning.png" alt="Meaning of name Harshit"></center>
+<center><img src="https://github.com/harshit4032/Harshit.github.io/blob/master/assets/img/harshit-meaning.png" alt="Meaning of name Harshit"></center>
 <br>
 <center><h4>Yes! It literally means 'translated' in English. Interesting, right? </h4><center>
 <center>PS: It is a culturally resonant name of Sanskrit origin, translating to <strong>‘a person who spreads Joy’</strong> or <strong>‘Joyful sprit’.</strong><center>
