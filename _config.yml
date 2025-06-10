@@ -80,21 +80,21 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+ email: "harshitwork4032@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
+  # facebook: anuditverma
+  github: https://github.com/harshit4032
+  # twitter: anuditverma
 #  patreon: yourname
 #  youtube: c/@AnuditVerma
 #  whatsapp: 0123456789
 #  medium: yourname
 #  reddit: yourname
-  linkedin: anuditverma
+  linkedin: https://www.linkedin.com/in/harshit-athwal-163272219
 #  xing: yourname
 #  stackoverflow: "4590331/anudit-verma"
 #  snapchat: anuditverma
-  instagram: anuditverma
+  instagram: https://www.instagram.com/___harshit__007___?utm_source=qr&igsh=b3FnYnplOHB0YXo2
 #  spotify: yourname
 #  telephone: +1234567890
 #  steam: anuditverma
@@ -119,8 +119,8 @@ rss-description: Let me introduce you to my geek side!
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
@@ -155,7 +155,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Harshit, geek, computer science, software engineer, mathematics, open source, google summer of code, gsoc, google developer student club, dsc, google dsc lead, raspberry pi, music, space, universe, internet of things, research, android, python, hackathons, mentor, masters, ms, graduate, csulb, cal state long beach, california state university long beach, california, bay area"
+keywords: "Harshit, geek, Electrical Engineering, Artificial Intelligence, Sportsman, Traveller , Music, Space, Universe, Internet of Things, Research, Python, Hackathons, Graduate"
 
 ######################################
 # --- Colours / background image --- #
