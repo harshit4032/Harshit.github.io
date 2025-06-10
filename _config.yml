@@ -44,9 +44,7 @@ author: Harshit
 
 
 navbar-links:
-  Recommends: 
-    - "books"
-    - "Travel placces in India"
+  Recommends: "books"
   My Work:
     - Projects: "http://ieeexplore.ieee.org/document/7918794/"
     - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
