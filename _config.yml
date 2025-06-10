@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Anudit Verma
+title: Harshit
 
 # Short description of your site
 share-title: Let me introduce you to my geek side!
@@ -20,7 +20,7 @@ meta-description: Hi, I am Anudit Verma. I am a Full Stack Software Developer, D
 
 
 # Your name to show in the footer
-author: Anudit Verma
+author: Harshit
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -53,7 +53,7 @@ navbar-links:
     - Contract Reader Tool - EY Hackathon: "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
     - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   About Me: "aboutme"
-  Resume | CV: "resume/Anudit_Verma.pdf"
+  Resume | CV: "resume/CV-4.pdf"
 
 ################
 # --- Logo --- #
@@ -153,7 +153,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "anudit verma, geek, computer science, software engineer, mathematics, open source, google summer of code, gsoc, google developer student club, dsc, google dsc lead, raspberry pi, music, space, universe, internet of things, research, android, python, hackathons, mentor, masters, ms, graduate, csulb, cal state long beach, california state university long beach, california, bay area"
+keywords: "Harshit, geek, computer science, software engineer, mathematics, open source, google summer of code, gsoc, google developer student club, dsc, google dsc lead, raspberry pi, music, space, universe, internet of things, research, android, python, hackathons, mentor, masters, ms, graduate, csulb, cal state long beach, california state university long beach, california, bay area"
 
 ######################################
 # --- Colours / background image --- #
