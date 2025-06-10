@@ -44,7 +44,9 @@ author: Harshit
 
 
 navbar-links:
-  Recommends: "Anime", "Travel placces in India"
+  Recommends: 
+    - "Anime"
+    - "Travel placces in India"
   My Work:
     - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
