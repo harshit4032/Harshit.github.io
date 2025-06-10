@@ -15,7 +15,7 @@ Hello, World! My name is <strong>Harshit</strong>. I am a Artificial Intelligenc
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I have a <strong>Bachelor's Degree</strong> in Electrical Engineering from National Institute of Technology, Kurukshetra, India (Institute of National Importance). At present I am a working fo reseachers including Neural Network Optimization for Bioacoustic signals, Time-Series Forecasting and Electric Vehicles. And also exploring about Agentic AI's, AI operations and AI cloud. 
+I have a <strong>Bachelor's Degree</strong> in Electrical Engineering from National Institute of Technology, Kurukshetra, India (Institute of National Importance). At present I am a working on reseaches including Neural Network Optimization for Bioacoustic signals, Time-Series Forecasting and Electric Vehicles. And also exploring about Agentic AI's, AI operations and AI cloud. 
 </p>
 
 <p class="about-text">
@@ -31,10 +31,37 @@ I enjoy watching <a target="_blank" href="https://www.anudit.in/books/">Animes</
 <p class="about-text">
 <span class="fa fa-running about-icon"></span>
 I love to explore extracurricular activities including arts and sports. I'm a professional cricketer(Bowling All-rounder) and a basketball player. I also occasionally do sketching and paining. I can also do a backflip and gymnastics. 
-<center><a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg')" href='https://www.instagram.com/___harshit__007___?utm_source=qr&igsh=b3FnYnplOHB0YXo2' target="_clean">
-  Follow me on
-  <img src='https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a></center>
+
+<center>
+  <a
+    style="display:inline-block;
+           background-color:#FC5200;
+           color:#fff;
+           padding:5px 10px 5px 30px;
+           font-size:11px;
+           font-family:Helvetica, Arial, sans-serif;
+           white-space:nowrap;
+           text-decoration:none;
+           background-repeat:no-repeat;
+           background-position:10px center;
+           border-radius:3px;
+           background-image:url('https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg');"
+    href="https://www.instagram.com/___harshit__007___?utm_source=qr&igsh=b3FnYnplOHB0YXo2"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Follow me on
+    <img
+      src="https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg"
+      alt="Instagram"
+      style="margin-left:4px; vertical-align:middle;"
+      height="13"
+      width="51"
+    />
+  </a>
+</center>
+
+
 </p>
 
 <p class="about-text">
