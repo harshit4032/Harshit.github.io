@@ -1,6 +1,6 @@
 ---
-layout: books
-title: My Book Recommendations
+layout: Animes
+title: My Anime Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -9,38 +9,38 @@ title: My Book Recommendations
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>Animes I Would Recommend</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_Alchemist.png" alt="The Alchemist" />
-					<h3 class="product__title">The Alchemist</h3>
-					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/naruto_og.jpg" alt="OG Naruto" />
+					<h3 class="product__title">OG Naruto</h3>
+					<span class="product__author highlight">Masashi Kishimoto</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
-					<h3 class="product__title">Now That You're Rich: Let's Fall in Love!</h3>
-					<span class="product__author highlight">Durjoy Datta & Maanvi Ahuja</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=now+that+you%27re+rich+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/naruto_shipudin.jpg" alt="Naruto Shippudin" />
+					<h3 class="product__title">Naruto: Shippudin</h3>
+					<span class="product__author highlight">Masashi Kishimoto</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+shippudin+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Zero_to_One.png" alt="Zero to One: Notes on Startups, or How to Build the Future" />
-					<h3 class="product__title">Zero to One: Notes on Startups, or How to Build the Future</h3>
-					<span class="product__author highlight">Peter Thiel & Blake Masters</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/onepunch.jpeg" alt="One Punch Man" />
+					<h3 class="product__title">One Punch Man</h3>
+					<span class="product__author highlight">Yusuke Murata.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=one+punch+man+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
-					<h3 class="product__title">The Subtle Art of Not Giving a F*ck</h3>
-					<span class="product__author highlight">Mark Manson</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/aot.jpg" alt="Attack on Titan" />
+					<h3 class="product__title">Attack on Titan</h3>
+					<span class="product__author highlight">Hajime Isayama</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Attack+on+titan+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
