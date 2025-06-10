@@ -32,34 +32,39 @@ I enjoy watching <a target="_blank" href="https://www.anudit.in/books/">Animes</
 <span class="fa fa-running about-icon"></span>
 I love to explore extracurricular activities including arts and sports. I'm a professional cricketer(Bowling All-rounder) and a basketball player. I also occasionally do sketching and paining. I can also do a backflip and gymnastics. 
 
-<center>
+<!-- Include Font Awesome for Instagram icon -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+/>
+
+<!-- Centered Instagram Follow Button -->
+<div style="text-align: center; margin-top: 20px;">
   <a
-    style="display:inline-block;
-           background-color:#FC5200;
-           color:#fff;
-           padding:5px 10px 5px 30px;
-           font-size:11px;
-           font-family:Helvetica, Arial, sans-serif;
-           white-space:nowrap;
-           text-decoration:none;
-           background-repeat:no-repeat;
-           background-position:10px center;
-           border-radius:3px;
-           background-image:url('https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg');"
     href="https://www.instagram.com/___harshit__007___?utm_source=qr&igsh=b3FnYnplOHB0YXo2"
     target="_blank"
     rel="noopener noreferrer"
+    style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #e1306c;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 30px;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      text-decoration: none;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s ease;
+    "
+    onmouseover="this.style.backgroundColor='#c5285d';"
+    onmouseout="this.style.backgroundColor='#e1306c';"
   >
-    Follow me on
-    <img
-      src="https://i.pinimg.com/736x/8f/94/c6/8f94c616ec0a60bafb4de4e0260719da.jpg"
-      alt="Instagram"
-      style="margin-left:4px; vertical-align:middle;"
-      height="13"
-      width="51"
-    />
+    <i class="fab fa-instagram" style="margin-right: 8px; font-size: 16px;"></i>
+    Follow me on Instagram
   </a>
-</center>
+</div>
+
 
 
 </p>
@@ -73,11 +78,39 @@ I’m very fond of <a target="_blank" href="https://www.anudit.in/books/">Travel
 <span class="fa fa-envelope about-icon"></span>
 Let’s connect if you want to collab on building something super awesome together. Follow my social media links given in the footer below or drop an email <a target="_blank" href="mailto:harshitwork4032@gmail.com">here</a>.
 </p>
+<!-- Include Font Awesome for LinkedIn icon (only once if already included) -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+/>
 
-<center>
-	<a href="https://www.linkedin.com/in/harshit-athwal-163272219/" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Harshit</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
+<!-- Centered LinkedIn Connect Button -->
+<div style="text-align: center; margin-top: 20px;">
+  <a
+    href="https://www.linkedin.com/in/harshit-athwal-163272219/"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #0077b5;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 30px;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      text-decoration: none;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s ease;
+    "
+    onmouseover="this.style.backgroundColor='#005983';"
+    onmouseout="this.style.backgroundColor='#0077b5';"
+  >
+    <i class="fab fa-linkedin" style="margin-right: 8px; font-size: 16px;"></i>
+    Connect with me on LinkedIn
+  </a>
+</div>
+
 <br>
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
