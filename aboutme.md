@@ -115,7 +115,8 @@ Let’s connect if you want to collab on building something super awesome togeth
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
 <br><br>
-<center><img src="https://github.com/harshit4032/Harshit.github.io/blob/master/assets/img/harshit-meaning.png" alt="Meaning of name Harshit"></center>
+<center><img src="/assets/img/harshit-meaning.png" alt="Meaning of name Harshit"></center>
+
 <br>
 <center><h4>Yes! It literally means 'translated' in English. Interesting, right? </h4><center>
 <center>PS: It is a culturally resonant name of Sanskrit origin, translating to <strong>‘a person who spreads Joy’</strong> or <strong>‘Joyful sprit’.</strong><center>
