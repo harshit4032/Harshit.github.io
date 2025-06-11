@@ -25,7 +25,7 @@ My interests lie in using Deep Learning and cutting-edge technologies for social
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy watching <a target="_blank" href="https://www.anudit.in/books/">Animes</a>. I started watching anime during the pandemic, and over time, it has become my favorite way to relax and lift my mood.
+I enjoy watching <a target="_blank" href="https://harshit4032.github.io/Harshit.github.io/anime/">Animes</a>. I started watching anime during the pandemic, and over time, it has become my favorite way to relax and lift my mood.
 </p>
 
 <p class="about-text">
@@ -71,7 +71,7 @@ I love exploring a wide range of extracurricular activities, especially in arts 
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I’m very fond of <a target="_blank" href="https://www.anudit.in/books/">Travelling</a>. Exploring new places, meeting different people, and experiencing diverse cultures always leaves me inspired and refreshed. 
+I’m very fond of <a target="_blank" href="https://harshit4032.github.io/Harshit.github.io/travel/">Travelling</a>. Exploring new places, meeting different people, and experiencing diverse cultures always leaves me inspired and refreshed. 
 </p>
 
 <p class="about-text">
@@ -114,9 +114,9 @@ Let’s connect if you want to collab on building something super awesome togeth
 <br>
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
-<br><br>
+<!-- <br><br> -->
 <center>
-  <img src="assets/img/harshit_meaning.png" alt="Meaning of name Harshit" style="max-width: 100%; height: auto;">
+<img src="{{ site.baseurl }}/assets/img/harshit_meaning.png" alt="Meaning of name Harshit">
 </center>
 
 <br>
