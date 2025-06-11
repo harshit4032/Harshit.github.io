@@ -45,7 +45,7 @@ author: Harshit
 navbar-links:
   Recommends: 
     - Anime: "books"
-    - Books: "projects"
+    # - Books: "projects"
   My Work:
     - Projects: "https://github.com/harshit4032?tab=repositories"
     - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
