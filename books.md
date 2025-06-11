@@ -1,6 +1,6 @@
 ---
-layout: Animes
-title: My Anime Recommendations
+layout: books
+title: My book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
