@@ -1,6 +1,6 @@
 ---
-layout: projects
-title: My projects
+layout: Books
+title: My Book Recommendations
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
