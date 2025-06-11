@@ -17,7 +17,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/agentic_ai.jpeg" alt="Agentic AI" />
 					<h3 class="product__title">Agentic AI: Shopping Assistance</h3>
 					<span class="product__author highlight">A Thorough Survey to Agentic AI Techniques.</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Agentic_LLM-for-Shopping')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Agentic_LLM-for-Shopping')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -43,7 +43,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/voicebot.jpg" alt="Voice Bot" />
 					<h3 class="product__title">VoiceBot</h3>
 					<span class="product__author highlight">Voice Input and output</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Voice-Bot')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Voice-Bot')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -51,7 +51,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/llama_2.jpg" alt="LLaMa 2" />
 					<h3 class="product__title">LLaMa2_2B : Implementation from scratch</h3>
 					<span class="product__author highlight">Finetuning using PEFT (Huggingface) .</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/App_llama_2_7B')"><i class="fa fa-code"></i><span class="action__text">Soucre Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/App_llama_2_7B')"><i class="fa fa-code"></i><span class="action__text">Soucre Code</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -59,7 +59,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/SD.png" alt="Stable Diffusion" />
 					<h3 class="product__title">Image Generation: Implementation of Stable Diffusion from scratch.</h3>
 					<span class="product__author highlight">Multimodality AI</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Stable-Diffusion-Model')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Stable-Diffusion-Model')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -67,7 +67,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/seq_2_seq.png" alt="Seq2Seq" />
 					<h3 class="product__title">Seq2Seq Model: Impletation from scratch.</h3>
 					<span class="product__author highlight">with attecntion mechanism.</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Chat_bot_seq2seq')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Chat_bot_seq2seq')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -75,7 +75,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/action_detection.jpg" alt="Action Detection" />
 					<h3 class="product__title">Action Detection Model.</h3>
 					<span class="product__author highlight">using Mediapipe pose cordinates and LSTM</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Action_Dectection')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Action_Dectection')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -83,7 +83,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/facial_recognition.png" alt="Facial Recognition" />
 					<h3 class="product__title">Facial Recognition.</h3>
 					<span class="product__author highlight">Siamese Neural Network</span>
-					<button class="action action--button" onclick="window.open('https://github.com/nicknochnack/FaceRecognition')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/nicknochnack/FaceRecognition')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -91,7 +91,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/mujoco.png" alt="MujoCo AI solver" />
 					<h3 class="product__title">MujoCo solver.</h3>
 					<span class="product__author highlight">Deep Reinforecement Learning</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/MuJoCoAI')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/MuJoCoAI')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -99,7 +99,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/self_driving.png" alt="Self Driving Car" />
 					<h3 class="product__title">Self Driving AI</h3>
 					<span class="product__author highlight">A3C algorithm implementation from scratch.</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Self_Driving_Car')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Self_Driving_Car')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -107,7 +107,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/cv.jpg" alt="Computer Vision" />
 					<h3 class="product__title">Computer Vision</h3>
 					<span class="product__author highlight">Detection, Recognition, DIP</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Computer_vision')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Computer_vision')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
             <div class="product">
@@ -115,7 +115,7 @@ title: My Projects
 					<img class="product__image" src="images/projects/real_estate_pp.png" alt="Real Estate Price Estimator" />
 					<h3 class="product__title">Real Estate Price Estimator</h3>
 					<span class="product__author highlight">Machine Learning Techniques</span>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Real_Estate_price_website')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Real_Estate_price_website')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>           
              <div class="product">
