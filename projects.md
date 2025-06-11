@@ -3,14 +3,14 @@ layout: Books
 title: My Book Recommendations
 ---
 <head>
-	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
+	<link rel="stylesheet" type="text/css" href="css/books_style.css" />
 	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Book I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
