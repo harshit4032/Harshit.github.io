@@ -41,7 +41,7 @@
      align-items: flex-start;
 }
 /* product */
- /* .product {
+ .product {
      position: relative;
      display: inline-block;
      vertical-align: top;
@@ -50,21 +50,7 @@
      padding: 1.5em 1.5em 2em;
      background: #24252A;
      border-radius: 5px;
-} */
-/* .product {
-    position: relative;
-    display: block;
-    min-width: 16em;
-    margin: 0 1em 2.5em;
-    padding: 1.5em 1.5em 2em;
-    background: #24252A;
-    border-radius: 5px;
-    height: 520px; /* Make all cards same height 
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  } */
-
+}
  .product--selected {
      box-shadow: 0 0 0 2px #5C5EDC;
 }
@@ -171,38 +157,6 @@
  .action--button:hover {
      background: #5C5EDC;
 } */
-/* .action--button {
-    background: #2C2D34;
-    color: #fff;
-    border-radius: 2px;
-    padding: 10px 16px;
-    font-size: 14px;
-    font-family: Arial, sans-serif;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 6px;
-    transition: background 0.2s;
-    min-width: 200px;
-    /* width: 100%;
-    box-sizing: border-box; 
-} */
-
-.action--button:hover {
-    background: #5C5EDC;
-}
-
-.action--button i + span {
-    margin-left: 1em;
-}
-
-/* .button-group {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    margin-top: 20px;
-} */
 
  .action__text {
      font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -221,50 +175,3 @@
  /* .action--button i + span {
      margin-left: 1em;
 } */
-
-
-
-
-.product {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    min-width: 16em;
-    margin: 0 1em 2.5em;
-    padding: 1.5em 1.5em 2em;
-    background: #24252A;
-    border-radius: 5px;
-    height: 540px; /* strict height */
-    box-sizing: border-box;
-    overflow: hidden; /* prevent overflow */
-  }
-  
-  .button-group {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    margin-top: auto;
-    width: 100%;
-    box-sizing: border-box;
-  }
-  
-  /* Button Fixes */
-  .action--button {
-    background: #2C2D34;
-    color: #fff;
-    border-radius: 2px;
-    padding: 10px 16px;
-    font-size: 14px;
-    font-family: Arial, sans-serif;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 6px;
-    width: 100%; /* force button to fill container */
-    max-width: 200px;
-    box-sizing: border-box;
-    transition: background 0.2s;
-  }
-  
