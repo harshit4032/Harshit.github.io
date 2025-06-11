@@ -14,178 +14,186 @@ title: My Locations Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/naruto_og.jpg" alt="Rishikesh" />
+					<img class="product__image" src="images/visited_places/rishikesh.jpeg" alt="Rishikesh" />
 					<h3 class="product__title">Rishikesh</h3>
 					<span class="product__author highlight">Uttrakhand.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=rishikesh+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/naruto_shipudin.jpg" alt="Haridwar" />
+					<img class="product__image" src="images/visited_places/haridwar.jpg" alt="Haridwar" />
 					<h3 class="product__title">Haridwar</h3>
 					<span class="product__author highlight">Uttrakhand.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+shippudin+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=haridwar+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
-			<div class="product">
+            			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/onepunch.jpeg" alt="Shimla" />
-					<h3 class="product__title">Shimla</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=one+punch+man+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/aot.jpg" alt="Kufri" />
-					<h3 class="product__title">Kufri, Shimla</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Attack+on+titan+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/ur_name.jpeg" alt="Kasauli" />
-					<h3 class="product__title">Kasauli, Solan</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=your+name+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-            <div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/ur_name.jpeg" alt="Kasol" />
-					<h3 class="product__title">Kasol, Parvati Valley</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=your+name+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/spirited_away.jpeg" alt="Kheerganga Trek" />
-					<h3 class="product__title">Kheerganga Trek, Parvati Valley</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=sprited+away+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>		
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/perfect_blue.jpeg" alt="Tosh Village" />
-					<h3 class="product__title">Tosh Village, Parvati Valley</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=perfect+blue+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/Monster.jpeg" alt="Jibhi" />
-					<h3 class="product__title">Jibhi, Tirthan Valley</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=monster+anime+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/boy_and_heron.jpeg" alt="Jalhori Pass" />
-					<h3 class="product__title">Jalhori Pass</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Boy+and+the+Heron+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/wind_rises.jpeg" alt="Dharamshala" />
-					<h3 class="product__title">Dharamshala, Kangra</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Wind+Rises+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/grave_of_the_fireflies.jpeg" alt="McLeod Ganj" />
-					<h3 class="product__title">McLeod Ganj, Kangra</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Grave+of+the+Fireflies+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/moving_castle.jpeg" alt="Triund Trek" />
-					<h3 class="product__title">Triund Trek, McLeod Ganj</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Howl's+Moving+Castle+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/ponyo.jpeg" alt="Reckong Peo" />
-					<h3 class="product__title">Reckong Peo, Kinnaur</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=ponyoy+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/whisper_of_the_heart.jpg" alt="Sangla" />
-					<h3 class="product__title">Sangla, Kinnaur</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=whisper+of+the+heart+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/silentvoice.jpeg" alt="Chitkul" />
-					<h3 class="product__title">Chitkul, India's Last Village</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=A+Silent+Voice+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/dh.jpeg" alt="Kalpa" />
-					<h3 class="product__title">Kalpa, Kinnaur</h3>
-					<span class="product__author highlight">Himachal Pradesh.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=drifting+home+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/visited_places/Black_Clover.jpg" alt="Srinagar" />
+					<img class="product__image" src="images/visited_places/srinagar.jpg" alt="Srinagar" />
 					<h3 class="product__title">Srinagar, Kashmir</h3>
 					<span class="product__author highlight">Jammu and Kashmir.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=black+clover+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=srinagar+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/demon_slayer.png" alt="Pahalgam" />
+					<img class="product__image" src="images/visited_places/pahalgam.jpg" alt="Pahalgam" />
 					<h3 class="product__title">Pahalgam, Kashmir</h3>
 					<span class="product__author highlight">Jammu and Kashmir.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=demon+slayer+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=pahalgam+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/kiki.jpeg" alt="Gulmarg" />
+					<img class="product__image" src="images/visited_places/gulmarg.jpg" alt="Gulmarg" />
 					<h3 class="product__title">Gulmarg, Kashmir</h3>
 					<span class="product__author highlight">Jammu and Kashmir.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kiki's+delivery+service+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=gulmarg+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>	
+            <div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/afarwat.jpg" alt="Apharwat Peak" />
+					<h3 class="product__title">Apharwat Peak, Gulmarg</h3>
+					<span class="product__author highlight">Jammu and Kashmir.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=apharwat+sumit+gulmarg+kashmir+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>	
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/kiki.jpeg" alt="Sonamarg" />
+					<img class="product__image" src="images/visited_places/sonamarg.jpg" alt="Sonamarg" />
 					<h3 class="product__title">Sonamarg, Kashmir</h3>
 					<span class="product__author highlight">Jammu and Kashmir.</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kiki's+delivery+service+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=sonamarg+kashmir+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/Shimla.jpeg" alt="Shimla" />
+					<h3 class="product__title">Shimla</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=shimla+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/kufri_2.jpeg" alt="Kufri" />
+					<h3 class="product__title">Kufri, Shimla</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kufri+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/kasauli.jpeg" alt="Kasauli" />
+					<h3 class="product__title">Kasauli, Solan</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kasauli+solan+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+            <div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/kasol.jpeg" alt="Kasol" />
+					<h3 class="product__title">Kasol, Parvati Valley</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kasol+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/kheerganga.jpeg" alt="Kheerganga Trek" />
+					<h3 class="product__title">Kheerganga Trek, Parvati Valley</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kheerganaga+trek+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>		
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/visited_places/Princess_mononoke.jpeg" alt="Princess Mononoke" />
-					<h3 class="product__title">Princess Mononoke</h3>
-					<span class="product__author highlight">Hayao Miyazaki</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Princess+Mononoke+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/visited_places/tosh.jpeg" alt="Tosh Village" />
+					<h3 class="product__title">Tosh Village, Parvati Valley</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=tosh+village+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/jibhi.jpeg" alt="Jibhi" />
+					<h3 class="product__title">Jibhi, Tirthan Valley</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=jibhi+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/jalhori_pass.jpeg" alt="Jalhori Pass" />
+					<h3 class="product__title">Jalhori Pass</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Tjalhori+pass+jibhi+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/dharamshala.jpeg" alt="Dharamshala" />
+					<h3 class="product__title">Dharamshala, Kangra</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=dharamshala+himachal+pradesh+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/mcleodganj.jpeg" alt="McLeod Ganj" />
+					<h3 class="product__title">McLeod Ganj, Kangra</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=mchleodganj+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/triund.jpeg" alt="Triund Trek" />
+					<h3 class="product__title">Triund Trek, McLeod Ganj</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=triund+treckreview')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/reckongpeo.jpeg" alt="Reckong Peo" />
+					<h3 class="product__title">Reckong Peo, Kinnaur</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=reckongpeo+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/sangla.jpeg" alt="Sangla" />
+					<h3 class="product__title">Sangla, Kinnaur</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=sangla+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/chitkul.jpeg" alt="Chitkul" />
+					<h3 class="product__title">Chitkul, India's Last Village</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=chitkul+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/kalpa.jpeg" alt="Kalpa" />
+					<h3 class="product__title">Kalpa, Kinnaur</h3>
+					<span class="product__author highlight">Himachal Pradesh.</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kalpa+kinnaur+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>		
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/visited_places/nitkkr_ogh.jpeg" alt="NIT, KKR" />
+					<h3 class="product__title">NIT, Kurukshetra with OG Homies</h3>
+					<span class="product__author highlight">Haryana</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=NIT+Kurukshetra+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>		
 		</section>
