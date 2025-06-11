@@ -115,7 +115,7 @@ Let’s connect if you want to collab on building something super awesome togeth
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
 <br><br>
-<center><img src="/assets/img/harshit-meaning.png" alt="Meaning of name Harshit"></center>
+<center><img src="/assets/img/harshit_meaning.png" alt="Meaning of name Harshit"></center>
 
 <br>
 <center><h4>Yes! It literally means 'translated' in English. Interesting, right? </h4><center>
