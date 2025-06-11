@@ -16,7 +16,7 @@ title: My Projects
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/projects/agentic_ai.jpeg" alt="Agentic AI" />
-					<h3 class="product__title">Agentic AI: Shopping Assistance</h3>
+					<h3 class="product__title">AI Shopping Assistance</h3>
 					<span class="product__author highlight">A Thorough Survey to Agentic AI Techniques.</span>
 					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Agentic_LLM-for-Shopping')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
@@ -50,7 +50,7 @@ title: My Projects
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/projects/llama_2.jpg" alt="LLaMa 2" />
-					<h3 class="product__title">LLaMa2_2B : Implementation from scratch</h3>
+					<h3 class="product__title">LLaMa2_2B: From scratch</h3>
 					<span class="product__author highlight">Finetuning using PEFT (Huggingface) .</span>
 					<button class="action--button" onclick="window.open('https://github.com/harshit4032/App_llama_2_7B')"><i class="fa fa-code"></i><span class="action__text">Soucre Code</span></button>
 				</div>
@@ -58,7 +58,7 @@ title: My Projects
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/projects/SD.png" alt="Stable Diffusion" />
-					<h3 class="product__title">Image Generation: Implementation of Stable Diffusion from scratch.</h3>
+					<h3 class="product__title">Image Generation: Stable Diffusion from scratch.</h3>
 					<span class="product__author highlight">Multimodality AI</span>
 					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Stable-Diffusion-Model')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
@@ -83,7 +83,7 @@ title: My Projects
 				<div class="product__info">
 					<img class="product__image" src="images/projects/facial_recognition.png" alt="Facial Recognition" />
 					<h3 class="product__title">Facial Recognition.</h3>
-					<span class="product__author highlight">Siamese Neural Network</span>
+					<span class="product__author highlight">Siamese Neural Network, From Scratch</span>
 					<button class="action--button" onclick="window.open('https://github.com/nicknochnack/FaceRecognition')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
@@ -99,7 +99,7 @@ title: My Projects
 				<div class="product__info">
 					<img class="product__image" src="images/projects/self_driving.png" alt="Self Driving Car" />
 					<h3 class="product__title">Self Driving AI</h3>
-					<span class="product__author highlight">A3C algorithm implementation from scratch.</span>
+					<span class="product__author highlight">A3C algorithm from scratch.</span>
 					<button class="action--button" onclick="window.open('https://github.com/harshit4032/Self_Driving_Car')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
 				</div>
 			</div>
