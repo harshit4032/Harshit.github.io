@@ -249,8 +249,7 @@ title: My Locations Recommendations
       transition: background-color 0.3s ease;
     "
     onmouseover="this.style.backgroundColor='#c5285d';"
-    onmouseout="this.style.backgroundColor='#e1306c';"
-  >
+    onmouseout="this.style.backgroundColor='#e1306c';" >
     <i class="fab fa-instagram" style="margin-right: 8px; font-size: 16px;"></i>
     Follow me on Instagram
   </a>
@@ -258,3 +257,4 @@ title: My Locations Recommendations
 
 </div>
 </div>
+
