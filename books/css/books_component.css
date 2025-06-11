@@ -68,13 +68,24 @@
  .grid .extra {
      display: none;
 }
- .product__image {
+/*  .product__image {
      display: block;
      margin: 0 auto;
      max-width: 100%;
      -webkit-transform-origin: 50% 100%;
      transform-origin: 50% 100%;
+} */
+.product__image {
+  display: block;
+  margin: 0 auto;
+  width: 200px;           /* fixed width */
+  height: 300px;          /* fixed height */
+  object-fit: cover;      /* crop image to fit without distortion */
+  border-radius: 5px;     /* optional */
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
 }
+
  .product:hover .product__image {
      -webkit-animation: swing 0.6s forwards;
      animation: swing 0.6s forwards;
