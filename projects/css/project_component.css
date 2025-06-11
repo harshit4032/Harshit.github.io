@@ -183,9 +183,9 @@
     justify-content: center;
     gap: 6px;
     transition: background 0.2s;
-    /* min-width: 200px; */
-    width: 100%;
-    box-sizing: border-box;
+    min-width: 200px;
+    /* width: 100%;
+    box-sizing: border-box; */
 }
 
 .action--button:hover {
