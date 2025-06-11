@@ -26,6 +26,7 @@ navbar-links:
   Recommends: 
     - Anime: "anime"
     - Books: "books"
+    - Travel: "travel"
   My Work:
     - Projects: "https://github.com/harshit4032?tab=repositories"
     - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
