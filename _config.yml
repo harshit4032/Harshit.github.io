@@ -16,8 +16,7 @@ title: Harshit
 share-title: Let me introduce you to my geek side!
 
 # Meta description for SEO purposes
-meta-description: Hi, I am Harshit. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US. I have a Master's Degree in Computer Science. I am a former GSoC Student and an MLH Top 50 Hacker of 2021. I love to write on my blog. I enjoy reading books. I love to run. In my past time, I am either listening to a podcast or playing video games.
-
+meta-description: Hi, I am Harshit. I am a AI Developer, Reseacher, Sportsman and a Traveller. I have a Bachelor's Degree in Electrical Engineering. I love to write on my blog. I enjoy watching Animes. I love to play sports. In my past time, I am either outside playing sports, video games or exploring technology.
 
 # Your name to show in the footer
 author: Harshit
@@ -126,7 +125,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "harshit.in"
+url-pretty: "Harshit.github.io/"
 
 # Show the site title in the <title> of all pages in addition to the page title
 title-on-all-pages: true
@@ -155,7 +154,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "anudit verma, geek, computer science, software engineer, mathematics, open source, google summer of code, gsoc, google developer student club, dsc, google dsc lead, raspberry pi, music, space, universe, internet of things, research, android, python, hackathons, mentor, masters, ms, graduate, csulb, cal state long beach, california state university long beach, california, bay area"
+keywords: "Harshit, geek, Electrical Engineering, Artificial Intelligence, Sportsman, Traveller , Music, Space, Universe, Internet of Things, Research, Python, Hackathons, Graduate"
 
 ######################################
 # --- Colours / background image --- #
@@ -163,17 +162,29 @@ keywords: "anudit verma, geek, computer science, software engineer, mathematics,
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#890000"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#890000"
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#DDDDDD"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+# footer-hover-col: "#890000"
+
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#890000"
+footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -224,7 +235,7 @@ gtag: "G-DLC0VX3ZTS"
 ####################
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "anuditverma"
+disqus: "harshit"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
