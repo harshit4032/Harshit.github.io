@@ -163,11 +163,19 @@ title: My book Recommendations
 					<span class="product__author highlight">Hayao Miyazaki</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kiki's+delivery+service+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
-			</div>			
+			</div>		
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/books_reads/Princess_mononoke.jpeg" alt="Princess Mononoke" />
+					<h3 class="product__title">Princess Mononoke</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Princess+Mononoke+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>		
 		</section>
 		<!-- Centered Instagram Follow Button with 'Weeb, eh?' -->
 <div style="text-align: center; margin-top: 40px;">
-  <p style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; color: #333;">
+  <p style="font-family: Arial, sans-serif; font-size: 30px; font-weight: bold; color: white; margin-bottom: 10px;">
     Weeb, eh?
   </p>
   <a
