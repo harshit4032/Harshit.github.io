@@ -25,7 +25,13 @@ author: Harshit
 navbar-links:
   Recommends: 
     - Anime: "books"
-    - Books: "anime"
+    - Books: "projects"
+  My Work:
+    - Projects: "https://github.com/harshit4032?tab=repositories"
+    - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
+    - Reseachgate: "https://www.researchgate.net/profile/Harshit-Harshit-9?ev=hdr_xprf"
+    - Reseaches: "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
+    - Thesis and reports: "https://github.com/harshit4032/Thesis-and-Reports"
   About Me: "aboutme"
   Resume | CV: "resume/CV-4.pdf"
 #  Tags: "tags"
