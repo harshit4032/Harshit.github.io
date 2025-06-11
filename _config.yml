@@ -24,8 +24,8 @@ author: Harshit
 # List of links in the navigation bar
 navbar-links:
   Recommends: 
-    - Anime: "anime"
-    - Books: "books"
+    - Anime: "books"
+    - Books: "anime"
   About Me: "aboutme"
   Resume | CV: "resume/CV-4.pdf"
 #  Tags: "tags"
