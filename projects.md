@@ -10,7 +10,7 @@ title: My Book Recommendations
 
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>My Projects</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>My Book Recomendations</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
