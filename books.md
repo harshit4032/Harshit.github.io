@@ -1,5 +1,5 @@
 ---
-layout: Books
+layout: books
 title: My Book Recommendations
 ---
 <head>
