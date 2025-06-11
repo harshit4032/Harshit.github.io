@@ -24,12 +24,18 @@ title: My Projects
 				<div class="product__info">
 					<img class="product__image" src="images/projects/chatbot.png" alt="ChatBot" />
 					<h3 class="product__title">ChatBot: Voice and Text I/O</h3>
-					<!-- Live Demo Button -->
-                    <button class="action action--button" onclick="window.open('https://harsh4032multimodelbot.streamlit.app')">
-                    <i class="fa fa-external-link-alt"></i>
-                    <span class="action__text">Live Demo</span>
+                    <div class="button-group">
+                    <!-- Live Demo Button -->
+                    <button class="action--button" onclick="window.open('https://harsh4032multimodelbot.streamlit.app')">
+                        <i class="fa fa-external-link-alt"></i>
+                        <span class="action__text">Live Demo</span>
                     </button>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/chatbot')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+                    <!-- Source Code Button -->
+                    <button class="action--button" onclick="window.open('https://github.com/harshit4032/chatbot')">
+                        <i class="fa fa-code"></i>
+                        <span class="action__text">Source Code</span>
+                    </button>
+                    </div>
 				</div>
 			</div>
 			<div class="product">
@@ -116,15 +122,21 @@ title: My Projects
 				<div class="product__info">
 					<img class="product__image" src="images/projects/portfolio.jpeg.webp" alt="Portfolio Website" />
 					<h3 class="product__title">Portfolio Website: From scratch</h3>
-					<!-- Live Demo Button -->
-                    <button class="action action--button" onclick="window.open('https://harshit4032.github.io/Portfolio/')">
-                    <i class="fa fa-external-link-alt"></i>
-                    <span class="action__text">Live Demo</span>
+                    <div class="button-group">
+                    <!-- Live Demo Button -->
+                    <button class="action--button" onclick="window.open('https://harshit4032.github.io/Portfolio/')">
+                        <i class="fa fa-external-link-alt"></i>
+                        <span class="action__text">Live Demo</span>
                     </button>
-					<button class="action action--button" onclick="window.open('https://github.com/harshit4032/Portfolio')"><i class="fa fa-code"></i><span class="action__text">Source Code</span></button>
+                    <!-- Source Code Button -->
+                    <button class="action--button" onclick="window.open('https://github.com/harshit4032/Portfolio')">
+                        <i class="fa fa-code"></i>
+                        <span class="action__text">Source Code</span>
+                    </button>
+                    </div>
 				</div>
 			</div>
-
+    </section>
 			
 <!-- Centered GitHub Follow Button with 'Techie, eh?' -->
 <div style="text-align: center; margin-top: 40px;">
