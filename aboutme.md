@@ -114,7 +114,7 @@ Let’s connect if you want to collab on building something super awesome togeth
 <br>
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
-<!-- <br><br> -->
+<br><br>
 <center>
 <img src="{{ site.baseurl }}/assets/img/harshit_meaning.png" alt="Meaning of name Harshit">
 </center>
