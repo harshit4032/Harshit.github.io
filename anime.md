@@ -6,7 +6,7 @@ title: My Anime Recommendations
 	<link rel="stylesheet" type="text/css" href="css/anime_style.css" />
 	<link rel="stylesheet" type="text/css" href="css/anime_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
-	<script src="anime/js/modernizr.custom.js"></script>
+	<script src="js/modernizr.custom.js"></script>
 
 </head>
 <div class="view">
