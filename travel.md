@@ -10,8 +10,13 @@ title: My Locations Recommendations
 
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Travel Places I Would Recommend In India!</h1></center><div>
-	<center><h3><br>These places i have visited during my undergraduation period from 2023 to 2025</h3></center><div>
+<div class="my__suggestion">
+  <center>
+    <h1><br>Travel Places I Would Recommend In India!</h1>
+    <hr style="width: 60px; height: 3px; background-color: #fff; border: none; margin-top: 10px; margin-bottom: 20px;">
+    <h3><br>These places I have visited during my undergraduation period from 2023 to 2025</h3>
+  </center>
+</div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
