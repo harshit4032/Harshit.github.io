@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: Harshit
+title: Anudit Verma
 
 # Short description of your site
 share-title: Let me introduce you to my geek side!
 
 # Meta description for SEO purposes
-meta-description: Hi, I am Harshit. I am a AI Developer, Reseacher, Sportsman and a Traveller. I have a Bachelor's Degree in Electrical Engineering. I love to write on my blog. I enjoy watching Animes. I love to play sports. In my past time, I am either outside playing sports, video games or exploring technology.
+meta-description: Hi, I am Anudit Verma. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US. I have a Master's Degree in Computer Science. I am a former GSoC Student and an MLH Top 50 Hacker of 2021. I love to write on my blog. I enjoy reading books. I love to run. In my past time, I am either listening to a podcast or playing video games.
 
 
 # Your name to show in the footer
-author: Harshit
+author: Anudit Verma
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -46,14 +46,14 @@ author: Harshit
 navbar-links:
   Recommends: "books"
   My Work:
-    - Projects: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - Reseachgate: "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
-    - Researches: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Thesis: "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-
+    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
+    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
+    - Google Summer of Code: "https://github.com/anuditverma/org.civicrm.osdi"
+    - Airtel Suvidha - Airtel WHack Hackathon: "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
+    - Contract Reader Tool - EY Hackathon: "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
+    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   About Me: "aboutme"
-  Resume | CV: "resume/CV-4.pdf"
+  Resume | CV: "resume/Anudit_Verma.pdf"
 
 ################
 # --- Logo --- #
@@ -61,7 +61,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Me.png"
+avatar: "/assets/img/av.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -78,21 +78,21 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
- email: "harshitwork4032@gmail.com"
+#  email: "someone@example.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: anuditverma
-  github: harshit4032
-  # twitter: anuditverma
+  facebook: anuditverma
+  github: anuditverma
+  twitter: anuditverma
 #  patreon: yourname
 #  youtube: c/@AnuditVerma
 #  whatsapp: 0123456789
 #  medium: yourname
 #  reddit: yourname
-  linkedin: harshit-athwal-163272219
+  linkedin: anuditverma
 #  xing: yourname
 #  stackoverflow: "4590331/anudit-verma"
 #  snapchat: anuditverma
-  instagram: ___harshit__007___?utm_source=qr&igsh=b3FnYnplOHB0YXo2
+  instagram: anuditverma
 #  spotify: yourname
 #  telephone: +1234567890
 #  steam: anuditverma
@@ -117,14 +117,14 @@ rss-description: Let me introduce you to my geek side!
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "harshit.in"
+url-pretty: "anudit.in"
 
 # Show the site title in the <title> of all pages in addition to the page title
 title-on-all-pages: true
@@ -153,7 +153,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Harshit, geek, Electrical Engineering, Artificial Intelligence, Sportsman, Traveller , Music, Space, Universe, Internet of Things, Research, Python, Hackathons, Graduate"
+keywords: "anudit verma, geek, computer science, software engineer, mathematics, open source, google summer of code, gsoc, google developer student club, dsc, google dsc lead, raspberry pi, music, space, universe, internet of things, research, android, python, hackathons, mentor, masters, ms, graduate, csulb, cal state long beach, california state university long beach, california, bay area"
 
 ######################################
 # --- Colours / background image --- #
