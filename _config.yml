@@ -28,7 +28,7 @@ navbar-links:
     - Books: "books"
     - Travel: "travel"
   My Work:
-    - Projects: "https://github.com/harshit4032?tab=repositories"
+    - Projects: "projects"
     # - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
     - Reseachgate: "https://www.researchgate.net/profile/Harshit-Harshit-9?ev=hdr_xprf"
     - Reseaches: "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
