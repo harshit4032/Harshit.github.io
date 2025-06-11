@@ -24,8 +24,8 @@ author: Harshit
 # List of links in the navigation bar
 navbar-links:
   Recommends: 
-    - Anime: "books"
-    - Books: "projects"
+    - Anime: "anime"
+    - Books: "books"
   My Work:
     - Projects: "https://github.com/harshit4032?tab=repositories"
     - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
