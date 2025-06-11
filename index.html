@@ -5,104 +5,42 @@ subtitle: Let me introduce you to my geek side!
 meta-title: "Hi, I'm Harshit"
 use-site-title: true
 title-off-on-page: true
+cover-img:
+  - "/assets/img/Chitkul.jpg" : "Chitkul, India's Last Village"
+  - "/assets/img/farewell2025.jpeg" : "Farewell Electrical A 2025"
+  - "/assets/img/batch2025.jpeg" : "Electrical Engineering Department, B.Tech Batch2025"
+  - "/assets/img/kalpa.jpeg" : "Kalpa, Kinnaur 2025"
 ---
 
-<!-- Cover Image Rotator Styles -->
-<style>
-  .cover-rotator {
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    transition: background-image 1s ease-in-out;
-  }
-
-  .cover-overlay {
-    position: relative;
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    color: white;
-    z-index: 1;
-    background-color: rgba(0, 0, 0, 0.4); /* dark overlay for contrast */
-  }
-
-  .cover-overlay h1 {
-    font-size: 3em;
-    margin-bottom: 20px;
-  }
-
-  .cover-overlay p {
-    font-size: 1.2em;
-    color: #ddd;
-  }
-</style>
-
-<!-- Background Rotator -->
-<div class="cover-rotator" id="coverRotator"></div>
-
-<!-- Overlay Text & Typed.js Animation -->
-<div class="cover-overlay mobile-js-hide">
-  <div class="row">
-    <div class="col-sm-12">
-      <div class="text-center">
-        <div id="content">
-          <h1>I write about <span id="typed" style="color:#ffb700"></span></h1>
-
-          <div id="typed-strings">
-            <p>Technology.</p>
-            <p>Artificial Intelligence.</p>
-            <p>Travelling.</p>
-            <p>Space and the Cosmos.</p>
-            <p>Sports.</p>
-            <p>Philosophy.</p>
-            <p>Spirituality.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Typed.js CDN -->
+<!-- Typed.js -->
 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+<div class="mobile-js-hide">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="text-center">
+                <div id="content">
+                    <h1>I write about <span id="typed" style="color:#890000"></span></h1>
 
-<!-- Cover Rotator Script -->
-<script>
-  const images = [
-    "/assets/img/Chitkul.jpg",
-    "/assets/img/batch2025.jpeg",
-    "/assets/img/kalpa.jpeg",
-    "/assets/img/farewell2025.jpeg"
-  ];
+                    <div id="typed-strings">
+                        <p>Technology.</p>
+                        <p>Artificial Intelligence.</p>
+                        <p>Travelling.</p>
+                        <p>Space and the Cosmos.</p>
+                        <p>Sports.</p>
+                        <p>Philosophy.</p>
+                        <p>Spirituality.</p>
+                    </div>
 
-  let index = 0;
-  const delay = 4000; // 4 seconds
-  const coverRotator = document.getElementById("coverRotator");
-
-  function changeBackground() {
-    coverRotator.style.backgroundImage = `url(${images[index]})`;
-    index = (index + 1) % images.length;
-  }
-
-  // Initial load and then rotate every X seconds
-  changeBackground();
-  setInterval(changeBackground, delay);
-
-  // Typed.js Animation
-  new Typed('#typed', {
-    stringsElement: '#typed-strings',
-    typeSpeed: 90,
-    backSpeed: 30,
-    loop: true,
-    backDelay: 1000
-  });
-</script>
+                    <script>
+                        var typed = new Typed('#typed', {
+                            stringsElement: '#typed-strings',
+                            typeSpeed: 90,
+                            loop: true,
+                            backDelay: 1000
+                        });
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
