@@ -80,11 +80,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+ email: "harshitwork4032@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: anuditverma
+  # facebook: anuditverma
   github: harshit4032
-  twitter: anuditverma
+  # twitter: anuditverma
 #  patreon: yourname
 #  youtube: c/@AnuditVerma
 #  whatsapp: 0123456789
@@ -119,14 +119,14 @@ rss-description: Let me introduce you to my geek side!
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "anudit.in"
+url-pretty: "harshit.in"
 
 # Show the site title in the <title> of all pages in addition to the page title
 title-on-all-pages: true
