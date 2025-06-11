@@ -62,7 +62,7 @@ title: My book Recommendations
 			</div>		
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/perfect_blue.jpeg alt="Perfect Blue" />
+					<img class="product__image" src="images/books_reads/perfect_blue.jpeg" alt="Perfect Blue" />
 					<h3 class="product__title">Perfect Blue</h3>
 					<span class="product__author highlight">Satoshi Kon</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=perfect+blue+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -142,7 +142,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Black_Clover,_volume_1" alt="Black Clover" />
+					<img class="product__image" src="images/books_reads/Black_Clover.jpg" alt="Black Clover" />
 					<h3 class="product__title">Black Clover</h3>
 					<span class="product__author highlight">Tatsuya Yoshihara</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=black+clover+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -165,8 +165,35 @@ title: My book Recommendations
 				</div>
 			</div>			
 		</section>
-		<center>
-			<h3>Weeb, eh?<br><a href="https://www.instagram.com/___harshit__007___/"><img src="images/insta_logo.jpg.avif" alt="Connect Harshit on instagram" /></a></h3>
-		</center>
-	</div>
+		<!-- Centered Instagram Follow Button with 'Weeb, eh?' -->
+<div style="text-align: center; margin-top: 40px;">
+  <p style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; color: #333;">
+    Weeb, eh?
+  </p>
+  <a
+    href="https://www.instagram.com/___harshit__007___?utm_source=qr&igsh=b3FnYnplOHB0YXo2"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #e1306c;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 30px;
+      font-family: Arial, sans-serif;
+      font-size: 14px;
+      text-decoration: none;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: background-color 0.3s ease;
+    "
+    onmouseover="this.style.backgroundColor='#c5285d';"
+    onmouseout="this.style.backgroundColor='#e1306c';"
+  >
+    <i class="fab fa-instagram" style="margin-right: 8px; font-size: 16px;"></i>
+    Follow me on Instagram
+  </a>
+</div>
+
+</div>
 </div>
