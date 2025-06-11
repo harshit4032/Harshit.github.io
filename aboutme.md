@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "Do What You Love, Love What You Do."
+subtitle: "Animal Spirit Of A Panda"
 ---
 
 <div id="aboutme-section">
@@ -15,7 +15,7 @@ Hello, World! My name is <strong>Harshit</strong>. I am a Artificial Intelligenc
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I have a <strong>Bachelor's Degree</strong> in Electrical Engineering from National Institute of Technology, Kurukshetra, India (Institute of National Importance). At present I am a working on reseaches including Neural Network Optimization for Bioacoustic signals, Time-Series Forecasting and Electric Vehicles. And also exploring about Agentic AI's, AI operations and AI cloud. 
+I have a <strong>Bachelor's Degree</strong> in Electrical Engineering from National Institute of Technology, Kurukshetra, India (Institute of National Importance). At present I am a working on reseaches including Neural Network Optimization for Bioacoustic signals, Time-Series Forecasting and Electric Vehicles, and also exploring about Agentic AI's, AI operations and AI cloud. 
 </p>
 
 <p class="about-text">
@@ -25,7 +25,7 @@ My interests lie in using Deep Learning and cutting-edge technologies for social
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy watching <a target="_blank" href="https://harshit4032.github.io/Harshit.github.io/anime/">Animes</a>. I started watching anime during the pandemic, and over time, it has become my favorite way to relax and lift my mood.
+I enjoy watching <a target="_self" href="https://harshit4032.github.io/Harshit.github.io/anime/">Animes</a>. I started watching anime during the pandemic, and over time, it has become my favorite way to relax and lift my mood.
 </p>
 
 <p class="about-text">
@@ -71,7 +71,7 @@ I love exploring a wide range of extracurricular activities, especially in arts 
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-I’m very fond of <a target="_blank" href="https://harshit4032.github.io/Harshit.github.io/travel/">Travelling</a>. Exploring new places, meeting different people, and experiencing diverse cultures always leaves me inspired and refreshed. 
+I’m very fond of <a target="_self" href="https://harshit4032.github.io/Harshit.github.io/travel/">Travelling</a>. Exploring new places, meeting different people, and experiencing diverse cultures always leaves me inspired and refreshed. 
 </p>
 
 <p class="about-text">
