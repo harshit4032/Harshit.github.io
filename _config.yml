@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: Anudit Verma
+title: Harshit
 
 # Short description of your site
 share-title: Let me introduce you to my geek side!
 
 # Meta description for SEO purposes
-meta-description: Hi, I am Anudit Verma. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US. I have a Master's Degree in Computer Science. I am a former GSoC Student and an MLH Top 50 Hacker of 2021. I love to write on my blog. I enjoy reading books. I love to run. In my past time, I am either listening to a podcast or playing video games.
+meta-description: Hi, I am Harshit. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US. I have a Master's Degree in Computer Science. I am a former GSoC Student and an MLH Top 50 Hacker of 2021. I love to write on my blog. I enjoy reading books. I love to run. In my past time, I am either listening to a podcast or playing video games.
 
 
 # Your name to show in the footer
-author: Anudit Verma
+author: Harshit
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -44,16 +44,17 @@ author: Anudit Verma
 
 
 navbar-links:
-  Recommends: "books"
+  Recommends: 
+    - "books"
   My Work:
-    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
-    - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
-    - Google Summer of Code: "https://github.com/anuditverma/org.civicrm.osdi"
-    - Airtel Suvidha - Airtel WHack Hackathon: "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
-    - Contract Reader Tool - EY Hackathon: "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
-    - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
+    - Projects: "http://ieeexplore.ieee.org/document/7918794/"
+    - Google Scholar: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
+    - Reseachgate: "https://github.com/anuditverma/org.civicrm.osdi"
+    - Reseaches: "https://www.linkedin.com/feed/update/activity:6273369896978087936/"
+    - Thesis and reports: "https://www.moneycontrol.com/news/technology/ey-hackathon-winners-develop-tax-compliance-solutions-with-automation-2439821.html"
+    # - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
   About Me: "aboutme"
-  Resume | CV: "resume/Anudit_Verma.pdf"
+  Resume | CV: "resume/CV-4.pdf"
 
 ################
 # --- Logo --- #
@@ -61,7 +62,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/av.jpg"
+avatar: "/assets/img/Me.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -81,18 +82,18 @@ social-network-links:
 #  email: "someone@example.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: anuditverma
-  github: anuditverma
+  github: harshit4032
   twitter: anuditverma
 #  patreon: yourname
 #  youtube: c/@AnuditVerma
 #  whatsapp: 0123456789
 #  medium: yourname
 #  reddit: yourname
-  linkedin: anuditverma
+  linkedin: "harshit-athwal-163272219"
 #  xing: yourname
 #  stackoverflow: "4590331/anudit-verma"
 #  snapchat: anuditverma
-  instagram: anuditverma
+  instagram: "___harshit__007___"
 #  spotify: yourname
 #  telephone: +1234567890
 #  steam: anuditverma
