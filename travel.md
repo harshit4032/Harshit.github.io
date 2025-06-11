@@ -255,6 +255,6 @@ title: My Locations Recommendations
   </a>
 </div>
 
-</div>
+<!-- </div> -->
 </div>
 
