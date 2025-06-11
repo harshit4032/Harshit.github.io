@@ -115,7 +115,9 @@ Let’s connect if you want to collab on building something super awesome togeth
 
 Oh, and one more thing. If you are wondering about the meaning of my name, well...
 <br><br>
-<center><img src="/assets/img/anudit-meaning.png" alt="Meaning of name Harshit"></center>
+<center>
+  <img src="/assets/img/harshit-meaning.png" alt="Meaning of name Harshit" style="max-width: 100%; height: auto;">
+</center>
 
 <br>
 <center><h4>Yes! I am cheerful, positive, and love spreading good energy wherever I go. </h4><center>
