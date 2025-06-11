@@ -14,7 +14,7 @@ title: My book Recommendations
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/naruto_og.jpg" style="width:200px; height:200px; alt="OG Naruto" />
+					<img class="product__image" src="images/books_reads/naruto_og.jpg" alt="OG Naruto" />
 					<h3 class="product__title">OG Naruto</h3>
 					<span class="product__author highlight">Masashi Kishimoto</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -22,7 +22,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/naruto_shipudin.jpg" style="width:200px; height:200px; alt="Naruto Shippudin" />
+					<img class="product__image" src="images/books_reads/naruto_shipudin.jpg" alt="Naruto Shippudin" />
 					<h3 class="product__title">Naruto: Shippudin</h3>
 					<span class="product__author highlight">Masashi Kishimoto</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+shippudin+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -30,7 +30,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/onepunch.jpeg" style="width:200px; height:200px; alt="One Punch Man" />
+					<img class="product__image" src="images/books_reads/onepunch.jpeg" alt="One Punch Man" />
 					<h3 class="product__title">One Punch Man</h3>
 					<span class="product__author highlight">Yusuke Murata.</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=one+punch+man+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -38,7 +38,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/aot.jpg" style="width:200px; height:200px; alt="Attack on Titan" />
+					<img class="product__image" src="images/books_reads/aot.jpg" alt="Attack on Titan" />
 					<h3 class="product__title">Attack on Titan</h3>
 					<span class="product__author highlight">Hajime Isayama</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Attack+on+titan+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -46,127 +46,127 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Harry_Potter_and_the_Cursed_Child.png" alt="Harry Potter and the Cursed Child" />
-					<h3 class="product__title">Harry Potter and the Cursed Child</h3>
-					<span class="product__author highlight">J. K. Rowling, Jack Thorne, & John Tiffany</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/ur_name.jpeg" alt="Your Name" />
+					<h3 class="product__title">Your Name</h3>
+					<span class="product__author highlight">Makoto Shinkai</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=your+name+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Astrophysics_for_People_in_a_Hurry.png" alt="Astrophysics for People in a Hurry" />
-					<h3 class="product__title">Astrophysics for People in a Hurry</h3>
-					<span class="product__author highlight">Neil deGrasse Tyson</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=astrophysics+for+people+in+a+hurry+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/spirited_away.jpeg" alt="Spirited Away" />
+					<h3 class="product__title">Spirited Away</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=sprited+away+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>		
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Who_Moved_My_Cheese.png" alt="Who Moved My Cheese?" />
-					<h3 class="product__title">Who Moved My Cheese?</h3>
-					<span class="product__author highlight">Spencer Johnson</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Who+Moved+My+Cheese%3F+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/perfect_blue.jpeg alt="Perfect Blue" />
+					<h3 class="product__title">Perfect Blue</h3>
+					<span class="product__author highlight">Satoshi Kon</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=perfect+blue+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Rich_Dad_Poor_Dad.png" alt="Rich Dad Poor Dad" />
-					<h3 class="product__title">Rich Dad Poor Dad</h3>
-					<span class="product__author highlight">Robert Kiyosaki & Sharon Lechter</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=rich+dad+poor+dad+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/Monster.jpeg" alt="Monster" />
+					<h3 class="product__title">Monster</h3>
+					<span class="product__author highlight">Hirokazu Kore-eda</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=monster+anime+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_Power_of_Habit.png" alt="The Power of Habit" />
-					<h3 class="product__title">The Power of Habit</h3>
-					<span class="product__author highlight">Charles Duhigg</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+power+of+habit+by+charles+duhigg+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/boy_and_heron.jpeg" alt="The Boy and the Heron" />
+					<h3 class="product__title">The Boy and the Heron</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Boy+and+the+Heron+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Bounce.png" alt="Bounce" />
-					<h3 class="product__title">Bounce</h3>
-					<span class="product__author highlight">Matthew Syed</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=bounce+matthew+syed+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/wind_rises.jpeg" alt="The Wind Rises" />
+					<h3 class="product__title">The Wind Rises</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Wind+Rises+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Shikhandi.png" alt="Shikhandi" />
-					<h3 class="product__title">Shikhandi and Other Stories They Don't Tell You</h3>
-					<span class="product__author highlight">Devdutt Pattanaik</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Shikhandi+and+Other+Stories+They+Don%27t+Tell+You+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/grave_of_the_fireflies.jpeg" alt="Grave of the Fireflies" />
+					<h3 class="product__title">Grave of the Fireflies</h3>
+					<span class="product__author highlight">Isao Takahata</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Grave+of+the+Fireflies+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_White_Tiger.png" alt="The White Tiger" />
-					<h3 class="product__title">The White Tiger</h3>
-					<span class="product__author highlight">Aravind Adiga</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+white+tiger+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/moving_castle.jpeg" alt="Howl's Moving Castle" />
+					<h3 class="product__title">Howl's Moving Castle</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Howl's+Moving+Castle+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_Power_of_Your_Subconscious_Mind.png" alt="The Power of Your Subconscious Mind" />
-					<h3 class="product__title">The Power of Your Subconscious Mind</h3>
-					<span class="product__author highlight">Joseph Murphy</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=power+of+subconscious+mind+joseph+murphy+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/ponyo.jpeg" alt="Ponyo" />
+					<h3 class="product__title">Ponyo</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=ponyoy+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Hooked.png" alt="Hooked: How to Build Habit-Forming Products" />
-					<h3 class="product__title">Hooked: How to Build Habit-Forming Products</h3>
-					<span class="product__author highlight">Nir Eyal</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=hooked+nir+eyal+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/whisper_of_the_heart.jpg" alt="Whisper of the Heart" />
+					<h3 class="product__title">Whisper of the Heart</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=whisper+of+the+heart+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_One_Thing.png" alt="The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results" />
-					<h3 class="product__title">The One Thing</h3>
-					<span class="product__author highlight">Gary W. Keller & Jay Papasan</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+One+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results&oq=The+one+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/silentvoice.jpeg" alt="A Silent Voice" />
+					<h3 class="product__title">A Silent Voice</h3>
+					<span class="product__author highlight">Naoko Yamada</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=A+Silent+Voice+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
-					<h3 class="product__title">Quirkology: The Curious Science of Everyday Lives</h3>
-					<span class="product__author highlight">Richard Wiseman</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Quirkology%3A+The+Curious+Science+of+Everyday+Lives+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/dh.jpeg" alt="Drifting Home" />
+					<h3 class="product__title">Drifting Homes</h3>
+					<span class="product__author highlight">Hiroyasu Ishida</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=drifting+home+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_Rules_of_Life.png" alt="The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life" />
-					<h3 class="product__title">The Rules of Life</h3>
-					<span class="product__author highlight">Richard Templar</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+rules+of+life+by+richard+templar+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/Black_Clover,_volume_1" alt="Black Clover" />
+					<h3 class="product__title">Black Clover</h3>
+					<span class="product__author highlight">Tatsuya Yoshihara</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=black+clover+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/Simp.png" alt="Simplicity" />
-					<h3 class="product__title">Simplicity</h3>
-					<span class="product__author highlight">Edward de Bono</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=simplicity+edward+de+bono+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/demon_slayer.png" alt="Demon Slayer" />
+					<h3 class="product__title">Demon Slayer</h3>
+					<span class="product__author highlight">Haruo Sotozaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=demon+slayer+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/The_Goldilocks_Enigma.png" alt="The Goldilocks Enigma: Why is the Universe Just Right for Life?" />
-					<h3 class="product__title">The Goldilocks Enigma</h3>
-					<span class="product__author highlight">Paul Davies</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F&oq=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/books_reads/kiki.jpeg" alt="Kiki's Delivery Service" />
+					<h3 class="product__title">Kiki's Delivery Service</h3>
+					<span class="product__author highlight">Hayao Miyazaki</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=kiki's+delivery+service+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>			
 		</section>
 		<center>
-			<h3>Bookworm, eh?<br><a href="https://www.goodreads.com/anuditverma"><img src="images/goodreads_logo.png" alt="follow anuditverma on goodreads" /></a></h3>
+			<h3>Weeb, eh?<br><a href="https://www.instagram.com/___harshit__007___/"><img src="images/insta_logo.jpg.avif" alt="Connect Harshit on instagram" /></a></h3>
 		</center>
 	</div>
 </div>
