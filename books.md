@@ -7,13 +7,14 @@ title: My book Recommendations
 	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
+
 </head>
 <div class="view">
 	<div class="my__suggestion"><center><h1><br>Animes I Would Recommend</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/naruto_og.jpg" alt="OG Naruto" />
+					<img class="product__image" src="images/books_reads/naruto_og.jpg" style="width:200px; height:200px; alt="OG Naruto" />
 					<h3 class="product__title">OG Naruto</h3>
 					<span class="product__author highlight">Masashi Kishimoto</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -21,7 +22,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/naruto_shipudin.jpg" alt="Naruto Shippudin" />
+					<img class="product__image" src="images/books_reads/naruto_shipudin.jpg" style="width:200px; height:200px; alt="Naruto Shippudin" />
 					<h3 class="product__title">Naruto: Shippudin</h3>
 					<span class="product__author highlight">Masashi Kishimoto</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=naruto+shippudin+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -29,7 +30,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/onepunch.jpeg" alt="One Punch Man" />
+					<img class="product__image" src="images/books_reads/onepunch.jpeg" style="width:200px; height:200px; alt="One Punch Man" />
 					<h3 class="product__title">One Punch Man</h3>
 					<span class="product__author highlight">Yusuke Murata.</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=one+punch+man+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -37,7 +38,7 @@ title: My book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/books_reads/aot.jpg" alt="Attack on Titan" />
+					<img class="product__image" src="images/books_reads/aot.jpg" style="width:200px; height:200px; alt="Attack on Titan" />
 					<h3 class="product__title">Attack on Titan</h3>
 					<span class="product__author highlight">Hajime Isayama</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Attack+on+titan+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
