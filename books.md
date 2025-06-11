@@ -11,6 +11,7 @@ title: My Book Recommendations
 </head>
 <div class="view">
 	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<hr style="width: 60px; height: 3px; background-color: #fff; border: none; margin-top: 10px; margin-bottom: 20px;">
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
